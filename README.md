@@ -43,4 +43,5 @@ Customize Avatar: Navigate through the different sections to customize the avata
 Use the color picker and dropdown menus to select different options.
 
 View Avatar: Click on the "View Avatar" button to see the customized avatar.
+
 Download Avatar: After customizing, click on the "Download" button to save the avatar as an image.
